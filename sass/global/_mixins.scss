@@ -1,0 +1,12 @@
+$main-display: flex;
+$justify-content-between: space-between;
+$justify-content-around: space-around;
+$container-justify-content: center;
+$container-justify-items: flex-start;
+
+$breakpoints: (
+  "phone": 360px,
+  "tablet": 768px,
+  "desktop": 1366px,
+  "LGdesktop": 1920px,
+) !default;
